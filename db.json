@@ -14,6 +14,61 @@
       "name": "Spiderman",
       "wins": 15,
       "losses": 3
+    },
+    {
+      "name": "Cat Woman",
+      "wins": 20,
+      "losses": 3
+    },
+    {
+      "name": "Sailor Moon",
+      "wins": 20,
+      "losses": 1
+    },
+    {
+      "name": "Picollo",
+      "wins": 3,
+      "losses": 45
+    },
+    {
+      "name": "Iron Man",
+      "wins": 4,
+      "losses": 2
+    },
+    {
+      "name": "Deadpool",
+      "wins": 12,
+      "losses": 12
+    },
+    {
+      "name": "Power Puff Girls",
+      "wins": 0,
+      "losses": 6
+    },
+    {
+      "name": "Hercules",
+      "wins": 4,
+      "losses": 9
+    },
+    {
+      "name": "Green Rangers",
+      "wins": 10,
+      "losses": 8
+    },
+    {
+      "name": "Naruto",
+      "wins": 70,
+      "losses": 24
+    },
+    {
+      "name": "Pegasus",
+      "wins": 45,
+      "losses": 23
+    },
+    {
+      "name": "Hulk",
+      "wins": 100,
+      "losses": 0
     }
   ]
 }
