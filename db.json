@@ -1,0 +1,19 @@
+{
+  "heroes": [
+    {
+      "name": "Thor",
+      "wins": 10,
+      "losses": 5
+    },
+    {
+      "name": "Batman",
+      "wins": 5,
+      "losses": 6
+    },
+    {
+      "name": "Spiderman",
+      "wins": 15,
+      "losses": 3
+    }
+  ]
+}
