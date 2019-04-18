@@ -1,71 +1,85 @@
 {
   "heroes": [
     {
+      "id": 1,
       "name": "Thor",
       "wins": 10,
       "losses": 5
     },
     {
+      "id": 2,
       "name": "Batman",
       "wins": 5,
       "losses": 6
     },
     {
+      "id": 3,
       "name": "Spiderman",
       "wins": 15,
       "losses": 3
     },
     {
+      "id": 4,
       "name": "Cat Woman",
       "wins": 20,
       "losses": 3
     },
     {
+      "id": 5,
       "name": "Sailor Moon",
       "wins": 20,
       "losses": 1
     },
     {
+      "id": 6,
       "name": "Picollo",
       "wins": 3,
       "losses": 45
     },
     {
+      "id":7,
       "name": "Iron Man",
       "wins": 4,
       "losses": 2
     },
     {
+      "id": 8,
       "name": "Deadpool",
       "wins": 12,
       "losses": 12
     },
     {
+      "id": 9,
       "name": "Shrek",
       "wins": 0,
       "losses": 6
     },
     {
+      "id": 10,
       "name": "Hercules",
       "wins": 4,
       "losses": 9
     },
     {
+      "id": 11,
       "name": "Green Ranger",
       "wins": 10,
       "losses": 8
     },
     {
+      "id": 12,
       "name": "Naruto",
       "wins": 70,
       "losses": 24
     },
     {
+      "id": 13,
       "name": "Pegasus",
       "wins": 45,
       "losses": 23
     },
     {
+      "id": 14,
       "name": "Hulk",
       "wins": 100,
       "losses": 0
